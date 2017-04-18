@@ -1,4 +1,4 @@
-SpreeOrdersCsvExport
+SolidusOrdersCsvExport
 ====================
 
 Introduction goes here.
@@ -6,10 +6,10 @@ Introduction goes here.
 Installation
 ------------
 
-Add spree_orders_csv_export to your Gemfile:
+Add solidus_orders_csv_export to your Gemfile:
 
 ```ruby
-gem 'spree_orders_csv_export'
+gem 'solidus_orders_csv_export'
 ```
 
 Bundle your dependencies and run the installation generator:
